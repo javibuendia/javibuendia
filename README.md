@@ -2,8 +2,6 @@
 
 I'm a data analytics professional with more than 7 years of experience, specializing in Microsoft technologies. Throughout my career, I've been involved in the design, implementation, and deployment of end-to-end data solutions, supporting clients across diverse industries and organizational sizes. My expertise covers the development of robust architectures, optimization of data workflows, and the generation of data-driven insights that support strategic decision-making and operational efficiency.
 
-![Javier's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javibuendia&show_icons=true)
-
 Feel free to connect with me on LinkedIn if you think I can help you.
 
 <a href="https://www.linkedin.com/in/javierbuendia"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
